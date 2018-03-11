@@ -228,3 +228,7 @@ gradle-app.setting
 .vscode/
 /Debug/
 /Release/
+
+### IntelliJ Stuff ###
+.idea
+*.iml
